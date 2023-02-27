@@ -1,4 +1,4 @@
 # Nathan Caetano Silva
 
 - O que eu espero do curso?
-Espero me formar para que eu seja um programador e perca o resto dos fios de cabelo que me restam, ao mesmo tempo que desenvolvo um projeto de automatização máxima da casa ondeu eu simplesmente aperte botôes e meu cafe saia pronto pu que feche todas as janelas enquanto ando em uma cadeira de rodas automatica controlado pelo neuro-sense atrofiando assim todos meus muúculos do peito pra baixo porem tendo felicidade genuina.
+Espero aprender ao maximo de programação e automatização maxima das coisas para fazer como hobby e trabalho automatizando coisas simples em casa para ter uma forma pratica de executar tarefas complicadas tipo coar um cafe apertando so um botao e um robo executar essa tarefa enquanto eu faço qualquer outra coias e ganhar bastante dinheiro para que eu possa alimentar meus desejos mundanos de ter carros datados super conservados
